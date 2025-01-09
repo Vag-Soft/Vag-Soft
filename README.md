@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--## Hi there 👋-->
+[![Vag-Soft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vag-Soft)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Vag-Soft/Vag-Soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
