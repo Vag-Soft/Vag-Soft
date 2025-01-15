@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code&size=40&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Vaggelis!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">🎓 Studying in the Aristotle University of Thessaloniki as an Undergraduate Student</h3>
-<h4 align="center">📖 Currently working with Pytorch and Android</h4>
+<h4 align="center">📖 Currently working on Deep Learning and Android Development</h4>
 
 
 
