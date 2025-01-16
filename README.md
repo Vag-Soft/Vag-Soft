@@ -6,11 +6,12 @@
 
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 ## 🌐 Connect with me
@@ -26,10 +27,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-stats-five-pi.vercel.app/api?username=Vag-Soft&show=&theme=transparent&include_all_commits=true&show_icons=true" />
+    <img height=175 align="center" src="https://github-readme-stats-mu-eight-75.vercel.app/api?username=Vag-Soft&show=&theme=transparent&include_all_commits=true&show_icons=true&hide_rank=true" />
   </a>
-  <a  href="https://github.com/anuraghazra/convoychat">
-    <img height=175 align="center" src="https://github-stats-five-pi.vercel.app/api/top-langs/?username=Vag-Soft&exclude_repo=github-stats&theme=transparent" />
+  <a  href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats-mu-eight-75.vercel.app/api/top-langs/?username=Vag-Soft&exclude_repo=github-stats&langs_count=10&theme=transparent&card_width=350&layout=compact" />
   </a>
 </div>
 
