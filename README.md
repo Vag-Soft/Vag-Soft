@@ -34,4 +34,4 @@
   </a>
 </div>
 
-*Note: The statistics displayed do not include code from repositories to which I am actively contributing or collaborating. They are calculated solely from my personal repositories.*
+*Note: The statistics displayed do not include data from repositories to which I have contributed to. They are calculated solely from my personal repositories.*
