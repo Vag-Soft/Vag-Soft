@@ -30,7 +30,7 @@
     <img height=175 align="center" src="https://github-readme-stats-mu-eight-75.vercel.app/api?username=Vag-Soft&show=&theme=transparent&include_all_commits=true&show_icons=true&hide_rank=true" />
   </a>
   <a  href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats-mu-eight-75.vercel.app/api/top-langs/?username=Vag-Soft&exclude_repo=github-stats&langs_count=10&theme=transparent&card_width=350&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats-mu-eight-75.vercel.app/api/top-langs/?username=Vag-Soft&exclude_repo=github-stats,DemoSimulationUE5&langs_count=10&theme=transparent&card_width=350&layout=compact" />
   </a>
 </div>
 
